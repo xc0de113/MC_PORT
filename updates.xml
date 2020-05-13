@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="https://1drv.ms/u/s!Avg14SHY2h85hW2Dg0IumPfWupvb/">
+  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer.msi" newVersion="34.6.7.1" newMediaFileId="61" fileSize="1029494784" md5Sum="b4479d5924690534311a09c8e38c7371" sha256Sum="cfa646e8b059f276949062a39319bca54f04f53e1693162329a0a6bc12cd7dd4" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
