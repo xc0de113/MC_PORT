@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="">
-  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer.msi" newVersion="11.2.5" newMediaFileId="61" fileSize="224533504" md5Sum="f7245bc8a0f56d4347c2856408efa2d6" sha256Sum="dd273d9800b721f388eb14d8b6efc84a854f7ef0a4ad2eb90ebb08360f594153" bundledJre="" archive="false" singleBundle="false">
-    <comment language="en" />
-  </entry>
-  <entry targetMediaFileId="161" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer.exe" newVersion="11.2.5" newMediaFileId="161" fileSize="222493184" md5Sum="1a186aba973a9de279c803362a51a88e" sha256Sum="07dc078a2884c0800e7b4729efc98b492277362181e18a60b4adfd470abeb50d" bundledJre="" archive="false" singleBundle="false">
-    <comment language="en" />
-  </entry>
-</updateDescriptor>
