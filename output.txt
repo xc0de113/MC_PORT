@@ -1,4 +1,0 @@
-# List of generated media files. The columns are tab-separated:
-# id | media file type | display name | media file path
-161	windows	EXE	C:\Users\Jacob\Desktop\MCPORT_OUTPUT\Portable_Minecraft_Installer.exe
-61	windows	MSI	C:\Users\Jacob\Desktop\MCPORT_OUTPUT\Portable_Minecraft_Installer.msi
