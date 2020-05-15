@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://ln2.sync.com/dl/de5210580/6trdc5pc-utricfqf-4fyxya2i-6b9u3faa/">
+<updateDescriptor baseUrl="http://www.mediafire.com/folder/bn0p414uj9rt5/MCINSTALLERS/">
   <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer_x86.msi" newVersion="51.7.9.0" newMediaFileId="61" fileSize="845731840" md5Sum="f74bbec94d818f3542f9a1c7da3890c0" sha256Sum="61a175175787e33dfa8fbb8fad370a263df2da79fd869a6a7629ae5afcdd2c7f" bundledJre="" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
