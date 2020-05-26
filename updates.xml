@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="https://www.mediafire.com/folder/bn0p414uj9rt5/MCINSTALLERS/">
+  <entry targetMediaFileId="1600" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer_x86.exe" newVersion="97.2.5.2" newMediaFileId="1600" fileSize="836898752" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+    <comment language="ar" />
+    <comment language="zh_CN" />
+    <comment language="zh_TW" />
+    <comment language="hr" />
+    <comment language="cs" />
+    <comment language="da" />
+    <comment language="nl" />
+    <comment language="fi" />
+    <comment language="fr" />
+    <comment language="de" />
+    <comment language="el" />
+    <comment language="he" />
+    <comment language="hu" />
+    <comment language="it" />
+    <comment language="ja" />
+    <comment language="ko" />
+    <comment language="no" />
+    <comment language="pl" />
+    <comment language="pt_BR" />
+    <comment language="pt" />
+    <comment language="ro" />
+    <comment language="ru" />
+    <comment language="es" />
+    <comment language="sv" />
+    <comment language="tr" />
+  </entry>
+  <entry targetMediaFileId="1602" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer_x64.exe" newVersion="97.2.5.2" newMediaFileId="1602" fileSize="837020096" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+    <comment language="ar" />
+    <comment language="zh_CN" />
+    <comment language="zh_TW" />
+    <comment language="hr" />
+    <comment language="cs" />
+    <comment language="da" />
+    <comment language="nl" />
+    <comment language="fi" />
+    <comment language="fr" />
+    <comment language="de" />
+    <comment language="el" />
+    <comment language="he" />
+    <comment language="hu" />
+    <comment language="it" />
+    <comment language="ja" />
+    <comment language="ko" />
+    <comment language="no" />
+    <comment language="pl" />
+    <comment language="pt_BR" />
+    <comment language="pt" />
+    <comment language="ro" />
+    <comment language="ru" />
+    <comment language="es" />
+    <comment language="sv" />
+    <comment language="tr" />
+  </entry>
+  <entry targetMediaFileId="1605" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer_x64.msi" newVersion="97.2.5.2" newMediaFileId="1605" fileSize="844050432" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+    <comment language="ar" />
+    <comment language="zh_CN" />
+    <comment language="zh_TW" />
+    <comment language="hr" />
+    <comment language="cs" />
+    <comment language="da" />
+    <comment language="nl" />
+    <comment language="fi" />
+    <comment language="fr" />
+    <comment language="de" />
+    <comment language="el" />
+    <comment language="he" />
+    <comment language="hu" />
+    <comment language="it" />
+    <comment language="ja" />
+    <comment language="ko" />
+    <comment language="no" />
+    <comment language="pl" />
+    <comment language="pt_BR" />
+    <comment language="pt" />
+    <comment language="ro" />
+    <comment language="ru" />
+    <comment language="es" />
+    <comment language="sv" />
+    <comment language="tr" />
+  </entry>
+  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="Portable_Minecraft_Installer_x86.msi" newVersion="97.2.5.2" newMediaFileId="61" fileSize="843928064" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+    <comment language="ar" />
+    <comment language="zh_CN" />
+    <comment language="zh_TW" />
+    <comment language="hr" />
+    <comment language="cs" />
+    <comment language="da" />
+    <comment language="nl" />
+    <comment language="fi" />
+    <comment language="fr" />
+    <comment language="de" />
+    <comment language="el" />
+    <comment language="he" />
+    <comment language="hu" />
+    <comment language="it" />
+    <comment language="ja" />
+    <comment language="ko" />
+    <comment language="no" />
+    <comment language="pl" />
+    <comment language="pt_BR" />
+    <comment language="pt" />
+    <comment language="ro" />
+    <comment language="ru" />
+    <comment language="es" />
+    <comment language="sv" />
+    <comment language="tr" />
+  </entry>
+</updateDescriptor>
